@@ -1,0 +1,171 @@
+.ready {
+    color:black;
+    text-align:center;
+    position:absolute;
+    font-family: "Short Stack", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#sides {
+    height:1320px;
+    background-color:rgb(180, 150, 104);
+}
+
+#sourdough {
+    float:right;
+}
+#cinnaraisin {
+    float:right;
+}
+#logo {
+    height:70px;
+}
+#starter {
+    border-radius:10px;
+    position:absolute;
+    left:850px;
+    top:350px;
+}
+
+.caption {
+    font-size:11px;
+    float:right;
+}
+h2 {
+    font-family: "Short Stack", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h3 {
+    color:tan;
+}
+.navbar {
+    background-color:#CBA675;
+}
+.navbar-brand {
+    color:rgb(138, 105, 62);
+}
+.card {
+    background-color:rgb(199, 179, 153);
+}
+
+.top {
+    background-image: url(https://codehs.com/uploads/e9384a875ec06941f13032d4d6cc0ab5);
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+td {
+    font-family: "Short Stack", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#fresh {
+    position:absolute;
+    font-family: "Short Stack", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color:black;
+    top:140px;
+}
+#collums{
+    background-color:rgb(180, 150, 104);
+    height:650px;
+}
+#collumstwo{
+    background-color:rgb(180, 150, 104);
+    height:650px;
+}
+.font {
+  font-family: "Short Stack", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+    text-align:left;
+    text-decoration:underline;
+}
+p {
+    font-size:18px;
+}
+.heading {
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    color:black;
+}
+h1{
+    position:absolute;
+    top:50px;
+    left:500px;
+}
+.card-body {
+    background-color:rgb(199, 179, 153);
+}
+h5 {
+    font-family: "Short Stack", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+p {
+    font-family: "Short Stack", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#assort {
+    position:absolute;
+    top:130px;
+    font-size:50px;
+    text-align:center;
+}
+.picture{
+    width: 250px;
+    height:225px;
+    text-align:center;
+}
+.orderreceive{
+    text-align:center;
+    position:absolute;
+    left:425px;
+    top:100px;
+}
+.theordertable{
+    border: 1px solid black;
+    text-align:center;
+}
+#sidestwo{
+   
+        background-color:rgb(180, 150, 104);
+
+}
+#sidestwoaswell{
+    
+        background-color:rgb(180, 150, 104);
+}
+#thesides{
+    background-color:rgb(180, 150, 104);
+}
+#moresides{
+    background-color:rgb(180, 150, 104);
+}
+#plussides{
+        background-color:rgb(180, 150, 104);
+
+}
+#evenmoresides{
+        background-color:rgb(180, 150, 104);
+
+}
+#foursides{
+        background-color:rgb(180, 150, 104);
+
+}
+#threesides{
+        background-color:rgb(180, 150, 104);
+
+}
+
+
+
+
